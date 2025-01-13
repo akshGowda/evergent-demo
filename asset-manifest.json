@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/evergent-demo/static/css/main.e6c13ad2.css",
-    "main.js": "/evergent-demo/static/js/main.b217edfd.js",
+    "main.js": "/evergent-demo/static/js/main.dfbd1a05.js",
     "static/js/488.efba91ca.chunk.js": "/evergent-demo/static/js/488.efba91ca.chunk.js",
     "index.html": "/evergent-demo/index.html",
     "main.e6c13ad2.css.map": "/evergent-demo/static/css/main.e6c13ad2.css.map",
-    "main.b217edfd.js.map": "/evergent-demo/static/js/main.b217edfd.js.map",
+    "main.dfbd1a05.js.map": "/evergent-demo/static/js/main.dfbd1a05.js.map",
     "488.efba91ca.chunk.js.map": "/evergent-demo/static/js/488.efba91ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b217edfd.js"
+    "static/js/main.dfbd1a05.js"
   ]
 }
